@@ -27,7 +27,7 @@
 #include "training.h"
 
 #define STT_NOD 100000
-#define MIN_GENE 90
+#define MIN_GENE 15
 #define MIN_EDGE_GENE 60
 #define MAX_SAM_OVLP 60
 #define ST_WINDOW 60
